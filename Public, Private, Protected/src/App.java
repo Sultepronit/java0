@@ -3,7 +3,7 @@ import inside.Plant;
  * public -- from anywhere
  * protected -- inside the package & in subclasses outside
  * no modifier -- inside the package only
- * private -- only within the class
+ * private -- only within the class.
  */
 public class App {
 
